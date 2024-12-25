@@ -1,3 +1,2 @@
 # ALgorithms_Assignment
-Heap-Sort Algorithm 
-Kruskal's Algorithm
+Heap-Sort & Kruskal's Algorithm
