@@ -1,2 +1,2 @@
-# ALgorithms_Assignment
+# Algorithms_Assignment
 
